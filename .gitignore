@@ -1,0 +1,23 @@
+# Dependências instaladas pelo gerenciador de pacotes
+node_modules/
+
+# Arquivos de build
+dist/
+build/
+out/
+
+# Arquivos de log
+logs/
+*.log
+
+# Arquivos temporários
+tmp/
+*.tmp
+
+# Arquivos de configuração do IDE
+.vscode/
+*.idea/
+*.iml
+
+# Arquivos com informações sensíveis
+.env

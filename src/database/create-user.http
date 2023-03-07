@@ -1,0 +1,9 @@
+POST http://localhost:3000/usuarios
+Content-Type: application/json
+
+{
+  "name": "João da Silva",
+  "cpf_cnpj": "123.456.789-00",
+  "email": "joao.silva@gmail.com",
+  "password": "123456"
+}
